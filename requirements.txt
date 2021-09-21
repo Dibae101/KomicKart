@@ -4,4 +4,6 @@ requests
 django-admin-thumbnails
 heroku
 gunicorn
+whitenoise
+
 
