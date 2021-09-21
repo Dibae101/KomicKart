@@ -2,3 +2,6 @@ django
 Pillow
 requests
 django-admin-thumbnails
+heroku
+gunicorn
+
